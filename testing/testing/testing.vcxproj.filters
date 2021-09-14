@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="204101007_a_11.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_a_12.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_a_13.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_a_14.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_a_15.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_a_16.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_a_17.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_a_18.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_a_19.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_a_20.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_e_11.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_e_12.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_e_13.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_e_14.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_e_15.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_e_16.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_e_17.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_e_18.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_e_19.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_e_20.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_i_11.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_i_12.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_i_13.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_i_14.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_i_15.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_i_16.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_i_17.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_i_18.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_i_19.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_i_20.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_o_11.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_o_12.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_o_13.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_o_14.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_o_15.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_o_16.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_o_17.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_o_18.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_o_19.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_o_20.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_u_11.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_u_12.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_u_13.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_u_14.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_u_15.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_u_16.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_u_17.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_u_18.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_u_19.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="204101007_u_20.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ci_a.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ci_e.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ci_i.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ci_o.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ci_u.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="silence.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="testing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

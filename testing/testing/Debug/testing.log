@@ -1,0 +1,21 @@
+﻿Build started 28-Nov-20 9:58:37 AM.
+     1>Project "C:\Users\ANIL DANU\Desktop\iit G\speech\204101007_vowelRecognition\testing\testing\testing.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\testing.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\testing.unsuccessfulbuild".
+         Touching "Debug\testing.lastbuildstate".
+     1>Done Building Project "C:\Users\ANIL DANU\Desktop\iit G\speech\204101007_vowelRecognition\testing\testing\testing.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
